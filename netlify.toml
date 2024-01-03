@@ -1,0 +1,3 @@
+[build]
+  command = "npm run build"  # or the command to build your frontend
+  publish = "path/to/your/static/files"  # specify the path to your static files
